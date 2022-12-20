@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+After a break related to motherhood, I return to my professional work full of enthusiasm and energy. I am currently developing as a manual tester. At work, I am meticulous, patient and punctual. I've been working with people all my life, so soft skills are no strangers to me. Feel free to contact me.
 ## TOOLS
 * Jira
 * TestLink
@@ -15,6 +15,7 @@ I am young student with many technical skills. I am very motivated to become QA
 Szkolenie Indywidualne tester manualny 05.04.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Udemy- Praktyczny kurs testowania oprogramowania
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
@@ -28,7 +29,7 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 ## MY TEST CASE EXAMPLES FOR ESTEE LAUDER PL
 * [Test cases](https://drive.google.com/file/d/17PvUqvdjCEroa1VISGBfrkSGMi7PK81s/view?usp=sharing)
 ## MY BUGS
-## MY BUGS FOR 
+## MY BUGS FOR ESTEE LAUDER PL
 * [Bug 1](https://docs.google.com/document/d/19awpN1emttOc5dH2DGAg5kq1d9kHQFvT/edit?usp=sharing&ouid=112541277277275762283&rtpof=true&sd=true)
 * [Bug 2](https://docs.google.com/document/d/1P7ZIDPPUjfi-Lm6VNkFRMOfSyjva0PBH/edit?usp=sharing&ouid=112541277277275762283&rtpof=true&sd=true)
 * [Bug 3](https://docs.google.com/document/d/1JHQZQIy22gH31FWpY_oeBytFvwoeJVnd/edit?usp=sharing&ouid=112541277277275762283&rtpof=true&sd=true)
