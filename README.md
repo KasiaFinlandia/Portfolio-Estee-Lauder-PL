@@ -12,7 +12,6 @@ After a break related to motherhood, I return to my professional work full of en
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Udemy- Praktyczny kurs testowania oprogramowania
