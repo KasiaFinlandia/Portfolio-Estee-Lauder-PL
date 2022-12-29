@@ -16,7 +16,6 @@ At work, I am meticulous, patient and punctual. I've been working with people al
 * SCRUM
 ## CERTIFICATES
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Udemy- Praktyczny kurs testowania oprogramowania
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
