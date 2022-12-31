@@ -8,6 +8,8 @@ At work, I am meticulous, patient and punctual. I've been working with people al
 * Jira
 * TestLink
 * GitHub
+* ShareX
+* PicPick
 ## TECH SKIILS
 * Software testing
 * Creating test cases
