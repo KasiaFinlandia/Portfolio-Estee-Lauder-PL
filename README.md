@@ -1,6 +1,5 @@
 # PORTFOLIO
 ## ABOUT ME
-I am a Junior Manual Tester currently looking for a first role where I can transfer my knowledge into experience. 
 Skilled in manual testing, bugs reporting, creating test cases and scenarios. 
 Getting to know new testing areas has become my passion, that is why I am developing my skills almost every day. 
 At work, I am meticulous, patient and punctual. I've been working with people all my life, so soft skills are no strangers to me. 
