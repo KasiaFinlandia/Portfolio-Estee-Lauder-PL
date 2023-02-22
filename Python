@@ -3,8 +3,8 @@ import requests
 
 addBook_response = requests.post('http://216.10.245.166/Library/Addbook.php',json = {
 "name":"Learn Appium Automation with Java",
-"isbn":"bcd44",
-"aisle":"22777455k4",
+"isbn":"bcd",
+"aisle":"2277745",
 "author":"Katarzyna Sulowska"
 }, headers={"Content-Type":"application/json"},
 )
